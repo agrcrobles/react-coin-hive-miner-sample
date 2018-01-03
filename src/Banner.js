@@ -6,7 +6,7 @@ import { Platform, StyleSheet, Text, View } from 'react-native';
 
 const Banner = () => (
   <View style={styles.banner}>
-    <Text style={styles.title}>React Coin Hive Minner</Text>
+    <Text style={styles.title}>React Coin Hive Miner Sample</Text>
     <Text style={styles.subtitle}>
       Mine cryptocurrency while users are idle ⌚
     </Text>

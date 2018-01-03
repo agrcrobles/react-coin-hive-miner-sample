@@ -1,5 +1,5 @@
 {
-	"name": "react-coin-hive-minner-sample",
+	"name": "react-coin-hive-miner-sample",
 	"version": "0.0.1",
 	"scripts": {
 		"web": "webpack-dev-server --config web/webpack.config.js --hot",

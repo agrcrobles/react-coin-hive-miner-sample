@@ -13,7 +13,7 @@ const renderApp = () => (
   </AppContainer>
 );
 
-AppRegistry.registerComponent('ReactNativeWebBoilerplate', () => renderApp);
+AppRegistry.registerComponent('react-coin-hive-miner-sample', () => renderApp);
 
 if (module.hot) {
   // $FlowFixMe
@@ -26,9 +26,9 @@ if (module.hot) {
   );
 
   // App registration and rendering
-  AppRegistry.registerComponent('ReactNativeWebBoilerplate', () => App);
+  AppRegistry.registerComponent('react-coin-hive-miner-sample', () => App);
 }
 
-AppRegistry.runApplication('ReactNativeWebBoilerplate', {
+AppRegistry.runApplication('react-coin-hive-miner-sample', {
   rootTag: document.getElementById('root'),
 });
