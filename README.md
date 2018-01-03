@@ -1,4 +1,6 @@
-# react-coin-hive-minner-sample
+# react-coin-hive-miner-sample
+
+![buildstate](https://travis-ci.org/agrcrobles/react-coin-hive-miner-sample.svg?branch=master)
 
 Mine cryptocurrency while your users are idle
 
