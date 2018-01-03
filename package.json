@@ -11,7 +11,7 @@
 		"node": ">=6.0.0"
 	},
 	"author": "alejandro garcia <agrcrobles@gmail.com>",
-	"homepage": "https://agrcrobles.github.io/react-coin-hive-minner-sample/",
+	"homepage": "https://agrcrobles.github.io/react-coin-hive-miner-sample/",
 	"license": "MIT",
 	"dependencies": {
 		"react": "^16.2.0",
