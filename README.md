@@ -4,6 +4,11 @@
 
 Mine cryptocurrency while your users are idle
 
+## Why Monero?
+
+Monero is different. To mine Monero, you have to calculate hashes with an algorithm called Cryptonight. This algorithm is very compute heavy and – while overall pretty slow – was designed to run well on consumer CPUs.
+There are solutions to run the Cryptonight algorithm on a GPU instead, but the benefit is about 2x, not 10000x like for other algorithms used by Bitcoin or Ethereum. This makes Cryptonight a nice target for JavaScript and the Browser.
+
 ## Dependencies
 
 * [react](https://reactjs.org/) for building user interface
