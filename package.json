@@ -8,7 +8,7 @@
 		"format": "prettier --single-quote --trailing-comma es5 --write 'src/*.js'"
 	},
 	"engines": {
-		"node": ">=6.0.0 <9"
+		"node": ">=6.0.0"
 	},
 	"author": "alejandro garcia <agrcrobles@gmail.com>",
 	"homepage": "https://agrcrobles.github.io/react-coin-hive-minner-sample/",
